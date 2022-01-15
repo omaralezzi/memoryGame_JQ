@@ -1,1 +1,1 @@
-# memoryGame_JQ
+# memoryGame_JQ Version 1.2
